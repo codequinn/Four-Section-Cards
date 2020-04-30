@@ -3,7 +3,5 @@ This was made towards the end of April,2020. It was made with HTML, CSS which wa
 
 This is a challenge by
 https://frontendmentor.io
-You can check out the <a href="four-section-cards.now.sh>Result</a> and checking out the source code above. You can also drop a message to ask question or give feedback. https://twitter.com/code_quinn
-             
-              mailto:hikramah08@gmail.com?subject=Hi Ikram&body=Hey Ikram,How ya doing
-            \
+You can check out the four-section-cards.now.sh and checking out the source code above. You can also drop a message to ask question or give feedback. https://twitter.com/code_quinn
+hikramah08@gmail.com
